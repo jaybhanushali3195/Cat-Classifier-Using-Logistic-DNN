@@ -1,1 +1,5 @@
 # Logistic-regression-with-neural-network-mindset
+<p>1)Preprocessed the Image daat  by reshaping images and flattening them.
+<p>2)Build helper functions to make a classification model using Logistic Regression Algorithm.
+<p>3)Optimized the w,b parameters by Minimizing Cost function Using Gradient Descent.
+<p>4)Achieved the training accuracy of 100%  where as testing accuracy of 68 %.
